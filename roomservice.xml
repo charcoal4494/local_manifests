@@ -12,4 +12,7 @@
   <!-- Proprietary blobs -->
   <project path="vendor/google/cheetah" name="Project-CHerta/proprietary_vendor_google_cheetah" remote="gitlab" />
   <project path="vendor/google/panther" name="Project-CHerta/proprietary_vendor_google_panther" remote="gitlab" />
+
+  <!-- Vendor-side Face Unlock -->
+  <project path="vendor/google/faceunlock" name="Project-CHerta/proprietary_vendor_google_FaceUnlock" remote="gitlab" />
 </manifest>
